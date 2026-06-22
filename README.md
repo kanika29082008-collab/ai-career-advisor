@@ -23,21 +23,21 @@ Clone the repository:
 ```bash
 git clone https://github.com/kanika29082008-collab/ai-career-advisor.git
 cd ai-career-advisor
+
 ## 🔮 Future Roadmap
+- 🌐 Job Scraping Integration – fetch postings from LinkedIn/Indeed
+- 📈 Interactive Dashboard – visualize skills and matches
+- ☁️ Cloud & MLOps Skills – detect AWS, Azure, GCP, Docker, Kubernetes
+- 🧾 Multi‑Resume Support – compare different resume versions
+- 🎓 Course Recommendations – suggest learning resources
+- 🤝 Collaboration Features – allow peer/mentor feedback
 
-Planned enhancements to make the AI Career Advisor more powerful and practical:
-
-- 🌐 **Job Scraping Integration** – fetch postings from LinkedIn/Indeed.
-- 📈 **Interactive Dashboard** – visualize skills and matches.
-- ☁️ **Cloud & MLOps Skills** – detect AWS, Azure, GCP, Docker, Kubernetes.
-- 🧾 **Multi‑Resume Support** – compare different resume versions.
-- 🎓 **Course Recommendations** – suggest learning resources.
-- 🤝 **Collaboration Features** – allow peer/mentor feedback.
 ## 👩‍💻 Author
 **Kanika Verma**  
 B.Tech Computer Science Engineering | Data Science & AI Intern Candidate  
 📍 Jaipur, Rajasthan  
 ✉️ kanika.24bcon1466@jecrcu.edu.in  
 🔗 [LinkedIn](https://www.linkedin.com/)
+
 ## 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
