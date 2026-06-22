@@ -1,0 +1,15 @@
+Data Science Intern – Jaipur
+
+We are looking for a Data Science Intern with skills in:
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Communication
+- Teamwork
+
+Responsibilities:
+- Assist in building ML models
+- Work with large datasets
+- Collaborate with cross-functional teams
